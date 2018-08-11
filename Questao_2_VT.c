@@ -1,4 +1,4 @@
-/*2. Deseja-se fazer um programa que:
+/* 2. Deseja-se fazer um programa que:
 a) Leia 10 valores inteiros e armazene-os em uma variável vetor.
 b) Determine e imprima, para cada número que se repete no conjunto (vetor), a quantdade de vezes
 em que ele aparece repetdo;
