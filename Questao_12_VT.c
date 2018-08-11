@@ -1,3 +1,11 @@
+/* 12. Faça um programa que gerencie o estoque de um mercado e:
+• Crie e leia um vetor de 5 produtos, com os dados: código (inteiro), nome (máximo 15 letras), preço e
+quantdade (utlize struct para armazenar os dados do produto).
+• Leia um pedido, composto por um código de produto e a quantdade. Localize este código no vetor e,
+se houver quantdade sufciente para atender ao pedido integralmente, atualize o estoque e informe
+o usuário. Repita este processo até e ler um código igual a zero. Se por algum motvo não for possível
+atender ao pedido, mostre uma mensagem informando qual erro ocorreu.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
