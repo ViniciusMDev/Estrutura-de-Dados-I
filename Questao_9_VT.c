@@ -1,3 +1,15 @@
+/* 9. Para a eleição do Diretório Acadêmico, há duas chapas. Cada chapa é descrita pelos seguintes dados:
+• Nome da chapa
+• Nome do responsável
+• Número de votos (inicialmente igual a zero)
+Construa um programa que permita:
+a) O cadastro das duas chapas.
+b) Ler os votos de MAX alunos, sendo MAX o número de alunos votantes. Defna-o através de #defne.
+Para cada voto lido, some 1 ao número de votos da chapa correspondente.
+c) Após a leitura dos votos, exiba no vídeo o nome da chapa, o nome do responsável e o número de
+votos da chapa campeã. Caso tenha ocorrido empate, exiba a mensagem Chapas empatadas com n
+votos, sendo n o número de votos.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #define MAX 10
