@@ -1,4 +1,4 @@
-/*4. Escreva um programa que faça o levantamento em uma adega da seguinte maneira:
+/* 4. Escreva um programa que faça o levantamento em uma adega da seguinte maneira:
 Leia um conjunto de 10 registros cada um contendo o nome do vinho, ano da safra e o código indicando
 o tpo do vinho ( 1=branco, 2=tnto, 3=rose ). O programa deverá calcular e imprimir:
 a) quantdade de cada tpo de vinho;
