@@ -1,3 +1,10 @@
+/*2. Deseja-se fazer um programa que:
+a) Leia 10 valores inteiros e armazene-os em uma variável vetor.
+b) Determine e imprima, para cada número que se repete no conjunto (vetor), a quantdade de vezes
+em que ele aparece repetdo;
+c) Elimine os elementos repetdos, formando um novo conjunto;
+d) Imprima o conjunto obtdo no item c.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
