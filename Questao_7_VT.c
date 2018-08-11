@@ -1,3 +1,9 @@
+/* 7. Escreva um programa em C para ler um vetor X de 10 elementos e um valor P (aceitar apenas valores
+entre 0 e 9) que representa a posição de um elemento dentro do vetor X. Imprimir o valor do elemento
+que ocupa a posição informada. Logo após excluir esse elemento do vetor fazendo com que os
+elementos subsequentes (se houverem) sejam deslocados de 1 posição para o início. Imprimir o vetor X
+após a exclusão ter sido executada.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
