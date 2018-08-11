@@ -1,3 +1,14 @@
+/* 11. Faça um programa que controle contas de banco.
+• Crie e leia um vetor de contas de banco, com código (inteiro), cliente (máximo 15 letras), saldo.
+• Leia um inteiro. Se for lido 1, execute depósito. Se for lido 2, execute saque. Se for lido 0, fnalize o
+programa. Repita este processo enquanto não for lido um valor válido.
+• Depósito: leia um código de conta e um valor. Some o valor lido no saldo da conta lida. Mostre o
+nome do cliente e o saldo resultante na tela.
+• Saque: leia um código de conta e um valor. Se o saldo for sufciente, deduza o valor lido no saldo da
+conta lida. Mostre o nome do cliente e o saldo resultante na tela.
+
+(Utlize uma struct para armazenar os dados das contas de banco)*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
