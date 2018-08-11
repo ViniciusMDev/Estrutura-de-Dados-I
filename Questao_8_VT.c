@@ -1,3 +1,9 @@
+/* 8. Um teatro possui 300 lugares, sendo 20 fleiras de 15 poltronas. A bilheteria vende ingressos com os
+seguintes valores: inteira: 20,00 – estudante: 10,00. Crie um programa que preencha o vetor
+aleatoriamente com valores que identfquem poltrona vazia, poltrona inteira, poltrona estudante. Após
+preencher, o programa deve contar quantas poltronas estão vazias, quantas inteiras e quantas estudante
+e informar o valor total apurado.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h> //necessário para a função rand
